@@ -6,3 +6,5 @@ seaborn
 jupyter
 ipykernel
 joblib
+pymongo
+certifi
