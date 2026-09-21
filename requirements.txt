@@ -6,5 +6,6 @@ seaborn
 jupyter
 ipykernel
 joblib
-pymongo
 certifi
+python-dotenv
+supabase>=2.0.0

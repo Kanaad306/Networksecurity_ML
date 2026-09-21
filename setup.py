@@ -7,7 +7,7 @@ setup(
     name="network-security-ml",
     version="0.1.0",
     description="Network Security ML project",
-    author="",
+    author="Kanaad Shetty",
     packages=find_packages(),
     install_requires=requirements,
     python_requires=">=3.11",
